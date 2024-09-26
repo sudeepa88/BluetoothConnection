@@ -10,7 +10,7 @@
 ### Setup
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/BluetoothConnection.git
+   git clone https://github.com/sudeepa88/BluetoothConnection.git
    open BluetoothConnection.xcodeproj
    ```
 
